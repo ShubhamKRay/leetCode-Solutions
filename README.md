@@ -71,3 +71,15 @@ Each file or folder is organized using the problem number and name for easy navi
 ---
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1046-last-stone-weight) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1046-last-stone-weight) |
+<!---LeetCode Topics End-->
