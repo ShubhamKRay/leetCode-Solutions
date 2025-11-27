@@ -82,4 +82,12 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1046-last-stone-weight) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
