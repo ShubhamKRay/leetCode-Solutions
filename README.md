@@ -78,6 +78,7 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,4 +96,5 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0009-palindrome-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
