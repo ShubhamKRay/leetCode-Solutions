@@ -101,4 +101,20 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
