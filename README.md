@@ -86,6 +86,7 @@ Each file or folder is organized using the problem number and name for easy navi
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
