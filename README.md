@@ -77,6 +77,7 @@ Each file or folder is organized using the problem number and name for easy navi
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [1046-last-stone-weight](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -96,6 +97,7 @@ Each file or folder is organized using the problem number and name for easy navi
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0876-middle-of-the-linked-list](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -145,4 +147,8 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
