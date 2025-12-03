@@ -105,6 +105,7 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## String
 |  |
@@ -139,6 +140,7 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -151,4 +153,8 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
