@@ -119,12 +119,14 @@ Each file or folder is organized using the problem number and name for easy navi
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Each file or folder is organized using the problem number and name for easy navi
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +156,7 @@ Each file or folder is organized using the problem number and name for easy navi
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
