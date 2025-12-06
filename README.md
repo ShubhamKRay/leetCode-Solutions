@@ -116,11 +116,13 @@ Each file or folder is organized using the problem number and name for easy navi
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
@@ -131,6 +133,7 @@ Each file or folder is organized using the problem number and name for easy navi
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Recursion
@@ -149,6 +152,7 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
