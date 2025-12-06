@@ -12,8 +12,8 @@ class Solution {
         public int getFib(int n){
             if(n==0 || n==1)
             return n;
-            if(fibMemory[0]!=0)
-            return fibMemory[0];
+            if(fibMemory[n]!=0)
+            return fibMemory[n];
             fibMemory[n]=getFib(n-1)+getFib(n-2);
             return fibMemory[n];
         }
