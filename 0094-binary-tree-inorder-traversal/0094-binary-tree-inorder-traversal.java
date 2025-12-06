@@ -22,7 +22,7 @@ class Solution {
     public void inorder(TreeNode root, List<Integer> l){
         if(root==null)
         return;
-        // l.add(root.val);
+        
         inorder(root.left,l);
         l.add(root.val);
         inorder(root.right,l);
