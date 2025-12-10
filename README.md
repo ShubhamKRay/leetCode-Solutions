@@ -118,6 +118,7 @@ Each file or folder is organized using the problem number and name for easy navi
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [2390-removing-stars-from-a-string](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Each file or folder is organized using the problem number and name for easy navi
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,4 +190,5 @@ Each file or folder is organized using the problem number and name for easy navi
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
