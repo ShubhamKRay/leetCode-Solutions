@@ -114,6 +114,7 @@ Each file or folder is organized using the problem number and name for easy navi
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
