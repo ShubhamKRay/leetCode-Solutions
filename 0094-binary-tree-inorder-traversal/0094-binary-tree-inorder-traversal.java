@@ -14,18 +14,29 @@
  * }
  */
 class Solution {
+            List<Integer> l=new ArrayList<>(); //Globally likhenge to l likhne ki jarurat
+                                               // nhi  hai method me
+
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> l=new ArrayList<>();
-        inorder(root,l);
+        // List<Integer> l=new ArrayList<>();
+        // inorder(root,l);
+        inorder(root);
         return l;
     }
-    public void inorder(TreeNode root, List<Integer> l){
+    public void inorder(TreeNode root ){ //List<Integer> l
         if(root==null)
         return;
         
-        inorder(root.left,l);
+
+
+        // inorder(root.left,l);
+        // l.add(root.val);
+        // inorder(root.right,l);
+
+
+        inorder(root.left);
         l.add(root.val);
-        inorder(root.right,l);
+        inorder(root.right);
         
     }
 }
