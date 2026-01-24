@@ -23,7 +23,7 @@ class Solution {
         if(root==null)
         return;
         
-         l.add(root.val);
+        l.add(root.val);
         preorder(root.left,l);
         preorder(root.right,l);
         
