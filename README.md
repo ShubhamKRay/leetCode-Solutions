@@ -77,6 +77,7 @@ Each file or folder is organized using the problem number and name for easy navi
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -202,6 +203,7 @@ Each file or folder is organized using the problem number and name for easy navi
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ShubhamKRay/leetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Brainteaser
 |  |
